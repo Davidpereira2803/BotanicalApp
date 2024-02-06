@@ -1,0 +1,18 @@
+Botanicals Section
+Botanicals ID,Botanicals Name
+1,Juniper
+2,bot1
+3,bot2
+
+Recipes Section
+Recipes ID,Recipes Name,Recipes Ingredients
+1,Gin1,Juniper
+
+Inventory Section
+Inventory ID,Inventory Item Name,Inventory Quantity,Inventory Unit
+1,kkk,1.0,kg
+
+Products Section
+Products ID,Products Product Name,Products Ingredients
+1,Gin1,"dede,dede,dede"
+2,Gin1,"ghefhjefahgefhgj,fehjhefhijefhjfe,hfeuauhiefuihewffhiue,ehusifhuifewuhiefhuifew,huifershuifewhuifewfuherwi,huiefhuifewewfhuifrehui"
